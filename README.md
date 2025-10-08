@@ -66,7 +66,7 @@ It wasn’t pretty — but it was mine. And that mattered more than anything.
 ---
 
 ## 🛠 Growing Beyond the Classroom
-Once I realized what I could do, I wanted to do more:  
+Once I realized what I could do, I wanted to do more here are some of them:  
 
 - **[Arogya Mitra (Health Portal)](https://arogyamitra-2.onrender.com/)**  
   *One-stop solution for healthcare, serving multiple user types.*  
