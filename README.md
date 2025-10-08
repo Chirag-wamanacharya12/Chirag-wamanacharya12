@@ -101,7 +101,7 @@ I knew I needed to step outside the comfort zone of personal projects:
 ## 📜 Certifications & Roles
 - **IBM Certified** — Python, SQL, Core Web (HTML, CSS)  
 - **Project Management** — Simplilearn  
-- **Core Committee Member & Technical Head** among 1200+ students for 3+ semesters
+- **Core Committee Member & Technical Head** among 1200+ students for span of 3+ semesters
 
 ---
 
